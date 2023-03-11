@@ -1,0 +1,21 @@
+.notice-badge {
+    position: absolute;
+    font-size: xx-small;
+    margin-left: -5px;
+    margin-top: -10px;
+    background-color: var(--red);
+    color: white;
+}
+
+footer {
+    background: #343a40;
+    padding: 40px;
+}
+
+footer a {
+    color: #f8f9fa !important
+}
+
+img{
+    width: 500px ;
+}
